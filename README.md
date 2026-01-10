@@ -1,4 +1,4 @@
-# Infrastructure & FullStack Developer & AI Engineer & DevOps
+# Infrastructure & Full-Stack Architect | MLOps & DevOps
 
 **Специализация:** Создание production-готовых систем с полным циклом: от проектирования архитектуры и backend-разработки до настройки AI-пайплайнов и отказоустойчивой инфраструктуры.
 
