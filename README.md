@@ -1,4 +1,4 @@
-# Infrastructure & Full-Stack Architect | AI Integration & DevOps
+# Infrastructure & Full-Stack Architect | AI & DevOps Engineer
 
 **Специализация:** Создание production-готовых систем с полным циклом: от проектирования архитектуры и backend-разработки до настройки AI-пайплайнов и отказоустойчивой инфраструктуры.
 
